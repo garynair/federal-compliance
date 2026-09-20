@@ -136,7 +136,7 @@ In practice, most federal-compliance programmes work outward from the contract: 
 **Path to adoption:** mandatory for any agency, contractor, or vendor with access to criminal justice information; enforced through state CJIS Systems Officers rather than a single national certification body.
 
 - [FBI Criminal Justice Information Services (CJIS) Division](https://www.fbi.gov/services/cjis) - The FBI division that owns the CJIS Security Policy and the criminal justice information systems (NCIC, III, and others) it protects.
-- [CJIS Security Policy v6.1](https://le.fbi.gov/file-repository/cjis_security_policy_v6-1_20260625.pdf) - The current version of the policy, dated 25 June 2026, defining the 13 security policy areas covering everything from encryption to personnel screening for criminal justice information access.
+- [CJIS Security Policy Resource Center](https://le.fbi.gov/cjis-division/cjis-security-policy-resource-center) - The FBI's official landing page for the current CJIS Security Policy document, its 13 security policy areas covering everything from encryption to personnel screening, and periodic version updates.
 
 ## IRS Publication 1075
 
@@ -155,12 +155,13 @@ In practice, most federal-compliance programmes work outward from the contract: 
 
 ## Executive Order 14028
 
-**Path to adoption:** binds federal agencies and their software/service suppliers directly; not independently certifiable, but drives specific, dated procurement requirements (SBOMs, zero trust architecture) that flow into agency contracts. Remains in force and un-rescinded as of 2026, though amended by EO 14144 (January 2025) and then EO 14306 (June 2025); the zero-trust and SBOM mandates below continue to apply unchanged.
+**Path to adoption:** binds federal agencies and their software/service suppliers directly; not independently certifiable, but drives specific, dated procurement requirements (SBOMs, zero trust architecture) that flow into agency contracts. Remains in force and un-rescinded as of 2026, though amended by EO 14144 (January 2025) and then EO 14306 (June 2025); the zero-trust and SBOM mandates below continue to apply, though OMB has since moved agencies away from the standardised software-attestation form the order originally drove (see OMB M-26-05 below).
 
 - [CISA Software Bill of Materials (SBOM)](https://www.cisa.gov/sbom) - CISA's hub for SBOM minimum elements and the Vulnerability Exploitability eXchange (VEX) format that operationalise the order's software-transparency mandate, the current reference for what a compliant SBOM must contain.
 - [CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model) - CISA's implementation guidance for the order's zero-trust mandate, defining the maturity stages (Traditional, Initial, Advanced, Optimal) agencies and their contractors are assessed against, aligned to OMB M-22-09.
 - [Executive Order 14028: Improving the Nation's Cybersecurity](https://www.federalregister.gov/documents/2021/05/17/2021-10460/improving-the-nations-cybersecurity) - The official Federal Register text (86 FR 26633, signed 12 May 2021) mandating Zero Trust Architecture adoption, Software Bill of Materials (SBOM) requirements for software vendors, and standardised federal incident response, still the baseline driving current federal procurement security requirements.
 - [NIST Secure Software Development Framework (SP 800-218)](https://csrc.nist.gov/Projects/ssdf) - NIST's secure-software-development practice framework, published with an explicit mapping from each EO 14028 Section 4(e) clause to its corresponding SSDF practice, the document software suppliers use to structure their required self-attestation.
+- [OMB M-26-05: Adopting a Risk-Based Approach to Software and Hardware Security](https://www.whitehouse.gov/wp-content/uploads/2026/01/M-26-05-Adopting-a-Risk-Based-Approach-to-Software-and-Hardware-Security.pdf) - OMB's January 2026 memorandum rescinding M-22-18 and M-23-16 (the standardised Secure Software Development Attestation Form regime implementing EO 14028 Section 4(e)) in favour of agency-led, risk-based software and hardware assurance. Practitioners who built compliance programmes around the attestation form need to know agencies now have discretion in how they validate supplier security.
 
 ## Privacy Act of 1974
 
