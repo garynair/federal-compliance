@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for considering a contribution. This list covers **US federal-contracting and federal-agency cybersecurity compliance**: cloud authorization (FedRAMP, StateRAMP), the DoD contractor certification stack (CMMC, NIST SP 800-171/171A, DFARS 252.204-7012), the federal-agency control catalogue and risk process (NIST SP 800-53, SP 800-37/RMF), agency-level statute (FISMA), the general-contractor baseline (FAR 52.204-21), sector-specific safeguarding rules (CJIS Security Policy, IRS Publication 1075), cryptographic validation (FIPS 140-2/140-3), the zero-trust/SBOM mandate (Executive Order 14028), foundational federal PII obligations (Privacy Act of 1974), the CUI Registry, and DoD cloud impact levels (the SRG).
+Thank you for considering a contribution. This list covers **US federal-contracting and federal-agency cybersecurity compliance**: cloud authorization (FedRAMP, GovRAMP), the DoD contractor certification stack (CMMC, NIST SP 800-171/171A, DFARS 252.204-7012), the federal-agency control catalogue and risk process (NIST SP 800-53, SP 800-37/RMF), agency-level statute (FISMA), the general-contractor baseline (FAR 52.204-21), sector-specific safeguarding rules (CJIS Security Policy, IRS Publication 1075), cryptographic validation (FIPS 140-2/140-3), the zero-trust/SBOM mandate (Executive Order 14028), foundational federal PII obligations (Privacy Act of 1974), the CUI Registry, and DoD cloud impact levels (the SRG).
 
 ## What belongs here
 
