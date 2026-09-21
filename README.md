@@ -302,6 +302,9 @@ In practice, most federal-compliance programs work outward from the contract: id
 - [Security Frameworks](https://github.com/garynair/security-frameworks) - A companion curated list covering NIST CSF, ISO/IEC 27001, and PCI-DSS — the source for the general-purpose frameworks this list deliberately excludes.
 - [IT Audit & Controls](https://github.com/garynair/it-audit-controls) - A companion curated list covering COBIT, COSO, and ITGC/ITAC — the source for anything SOX-, ITGC-, or COBIT-related that is out of scope here.
 - [FinServ Compliance](https://github.com/garynair/finserv-compliance) - A companion curated list covering GLBA/FFIEC, NYDFS 500, SEC/FINRA, BSA/AML/OFAC, and the prudential-regulator examination framework for financial services.
+- [Risk Management](https://github.com/garynair/risk-management) - A companion curated list covering the risk register, heat maps, and treatment planning that unresolved findings from this list feed into.
+- [Cloud Security](https://github.com/garynair/cloud-security) - A companion curated list covering the shared responsibility model, AWS/Azure/GCP-specific security, and SOC 2 — the cloud-specific implementation layer for these controls.
+- [Privacy Compliance](https://github.com/garynair/privacy) - A companion curated list covering GDPR, CCPA/CPRA, and the US state privacy patchwork — the privacy-specific obligations that run alongside these requirements.
 
 ---
 
