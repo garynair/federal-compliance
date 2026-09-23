@@ -1,3 +1,5 @@
+![Federal Compliance](docs/banner.png)
+
 # Federal Compliance
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
